@@ -24,7 +24,7 @@ Values:
 
 Goals: To deliver a fast networking platform to local communities around the world. This will help them put a price tag on places where the garbage is being piled up and not being gathered thus providing an incentive for the collection of that abandoned garbage.
 
-Objectives: Build a platform driven by blockchain technology to leverage the versatility of distributed ledger and smart contracts functionality. Design an easy to use, readily available solution which enables incentives for garbage collection in places where the current local system does not reach.
+Objectives: Build a platform driven by blockchain technology to leverage the versatility of distributed ledger and smart contracts functionality. Design an easy to use, readily available solution which enables incentives for garbage collection in places where the current local system does not reach, or has a very slow response to the problem.
 
 • Build the initial phase of the platform for a local community with a problem with garbage: Vicente Lopez Neighborhood, in the North of the city of Buenos Aires, has a persistent garbage problem on the shores of the Rio de la Plata River. More than 200.000 people live in this area and the shore with a garbage problem is 6km long. The trash comes from the river, there is no way to stop this problem as the origin is from places up the river, not from the neighborhood itself. And all the standard garbage collecting systems ignore what happens on the shoreline of the river, as the origin of the garbage being accumulated there is not from the people of that neighborhood. Sometimes volunteers are picking up the trash but with no reward and they just don’t do this frequently enough to keep the shoreline clean. The platform will be build during winter 2023 and we will begin the first test on spring 2023.
 
@@ -34,6 +34,12 @@ Vicente Lopez is the neighborhood of the founder of this project. More neighborh
 
 We seek to provide:
 
-• Government-to-Governmen services: Our network will help and enhance already established garbage collections plans put in place by government entities.
+• Government-to-Government services: Our network will help and enhance already established garbage collection plans put in place by government entities.
 
-• Government-to-Business services: Governments may put a prize on for some garabge collection and let business do the work. Those business might be from the size of only an individuals seeking a work opportunity or well established recicling and garbage collection business with many people working
+• Business/individual-to-Government services: Our network will help and enhance the communication between people affected by the garbage problem and government entities that are in charge of garbage collection.
+
+• Government-to-Business/individual services: Governments may put a prize on for some garbage collection and let businesses or individuals seeking a rented opportunity do the work.
+
+• Business/individual-to-Business/individual services: The P4G platform can put incentives in society without the need for government intervention.
+
+2.2.1 Problem Area
