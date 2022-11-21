@@ -1,5 +1,3 @@
-This was done as homework for the 515 course of Nicosia's Master in blockchain and cryptocurrencies.
-
 Blockchain decentralized prize for collecting garbage
 
 1. Executive summary
@@ -10,13 +8,13 @@ This network also has the potential to be a job provider, thus enhancing the the
 
 2. Strategic overview
 
-2.1.1 Key Terms
+2.1. Key Terms
 
 Vision: To become the world's leading alternative for cleaning up the trash found in unexpected places in nature or cities, through an innovative product design that consolidates the needs of numerous actors with an interest in long-term sustainability. Those different actors can be in touch with each other with capability for value transfer through our network.
 
-Mission: To develop a P4G platform, “Price for garbage”, which overcomes obstacles around incentives allocation for trash collection and the speed at witch this can happen, thus making the solution very fast compared to legacy centralized plans for trash collection. P4G will be available worldwide and will work both with legacy trash-gathering organizations but also can work independently of them. Thus making the network resilient and not dependent on any particular form of already established government.
+Mission: To develop a P4T platform, “Price for trash”, which overcomes obstacles around incentives allocation for trash collection and the speed at witch this can happen, thus making the solution very fast compared to legacy centralized plans for trash collection. P4T will be available worldwide and will work both with legacy trash-gathering organizations but also can work independently of them. Thus making the network resilient and not dependent on any particular form of already established government.
 
-Values:
+2.2. Values:
 
 • Care and understanding of local communities and their needs for long therm sustainability.
 
@@ -32,7 +30,7 @@ Objectives: Build a platform driven by blockchain technology to leverage the ver
 
 Vicente Lopez is the neighborhood of the founder of this project. More neighborhoods will be added as soon as other participants join this venture.
 
-2.1.2 Type of Business Operations:
+2.3 Type of Business Operations:
 
 We seek to provide:
 
@@ -42,6 +40,34 @@ We seek to provide:
 
 • Government-to-Business/individual services: Governments may put a prize on for some garbage collection and let businesses or individuals seeking a rented opportunity do the work.
 
-• Business/individual-to-Business/individual services: The P4G platform can put incentives in society without the need for government intervention.
+• Business/individual-to-Business/individual services: The P4T platform can put incentives in society without the need for government intervention.
 
-2.2.1 Problem Area
+2.4. Problem Area
+
+P4T aims to overcome significant problems related to non-expected garbage accumulation in urban and natural areas.
+
+• Awareness problem: some people may notice there is garbage accumulation but don’t report it anywhere. With our network now they can report it.
+
+• Urban gatherers rely only on recycling revenue, with our network now they can have another stream of revenue for collecting the garbage. This will incentivize them to pick up trash and clean a place that does not always have recycling potential.
+
+• Some garbage accumulation sites are far away from where people are located. With our network, there is a path to create enough incentives so it is justified for some people to mobilize to the site and gather that trash.
+
+2.5. Business Model Solution and revenue creation.
+
+The project will become open source once it is mature, the revenue at that point for the maintenance and expansion of the network will come from the actors that place the prize tags for garbage collection. Each prize tag will have a % that will go directly to the worker or business collecting the garbage, a % that will go to the moderators, and a % that will go to the business in charge of the development and maintenance of the network. On the other side, the government and businesses interested in using the system can pay for a personalized version of this blockchain solution.
+
+3 Competitive analysis
+
+3.1 Summarized STEEPLE for the Macro-environment analysis
+
+Socio-Cultural: P4T can widely widespread easily arround the world as long as there the area has internet mobile coverage as the users needs a mobile with internet connection to connect to the network.
+
+Technology: The innovative use of blockchain technology will disrupt current garbage collection plans for the unespected trash accumulation sites. There is no modern competition for our solution.
+
+Economic: The incentives that our network will allow to exist will create new revenue flow for existing actors in charge of garbage collection as well as stimulate the creation of new jobs and busineses that will want to earn those incentives.
+
+Environment: It is a win win solution for the environment as our network is providing incentives for government, busineses and individual actors to pick up the trash on the environment and clean it up thus improving the sustainability of that area.
+
+Political and Legal: There might be countries more open to some aspects of our network but closed to other aspects. Some goverments might nto want to lose control over the trash collection therefore will only accept our netowkr for regulated entities by the government. Some other countries might not want to lose time and effort with regulation and will simply let the non government actors involved will use the network as they see fit.
+
+Ethical: We may encounter similar ethical questions as other networks involved in giving incentives to provide a service such as Uber. Questions might range from “is this a real job?”. As well as some garbage might be dangerous to be picked up by a non regulated actor. We will establish a criteria on what migh be ethical to put a prize on and what not to put a prize on.
