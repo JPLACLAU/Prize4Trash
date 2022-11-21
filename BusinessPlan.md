@@ -1,4 +1,4 @@
-garbage
+Blockchain decentralized prize for collecting garbage
 
 1. Executive summary
 
