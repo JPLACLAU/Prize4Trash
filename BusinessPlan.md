@@ -1,3 +1,5 @@
+This was done as homework for the 515 course of Nicosia's Master in blockchain and cryptocurrencies.
+
 Blockchain decentralized prize for collecting garbage
 
 1. Executive summary
