@@ -1,10 +1,12 @@
-Blockchain decentralized prize for collecting garbage
+Blockchain decentralized prize for collecting garbage (P4T, “Prize For Trash”).
 
 1. Executive summary
 
 We seek to develop a decentralized network for trash collection that will provide incentives for cleaning urban and natural areas that are outside the current city plan or regional plan for garbage collection. A centralized local authority may have a slow response or no response at all when garbage is found in unexpected places. Therefore that garbage is not being taken care of according to any garbage collection plan and might be piling up and cause increasing problems for the healthy sustainability of the local environment.
 
 This network also has the potential to be a job provider, thus enhancing the the financial sustainability of local communities as well.
+
+Salto de página
 
 2. Strategic overview
 
@@ -29,6 +31,8 @@ Objectives: Build a platform driven by blockchain technology to leverage the ver
 • Build the initial phase of the platform for a local community with a problem with garbage: Vicente Lopez Neighborhood, in the North of the city of Buenos Aires, has a persistent garbage problem on the shores of the Rio de la Plata River. More than 200.000 people live in this area and the shore with a garbage problem is 6km long. The trash comes from the river, there is no way to stop this problem as the origin is from places up the river, not from the neighborhood itself. And all the standard garbage collecting systems ignore what happens on the shoreline of the river, as the origin of the garbage being accumulated there is not from the people of that neighborhood. Sometimes volunteers are picking up the trash but with no reward and they just don’t do this frequently enough to keep the shoreline clean. The platform will be build during winter 2023 and we will begin the first test on spring 2023.
 
 Vicente Lopez is the neighborhood of the founder of this project. More neighborhoods will be added as soon as other participants join this venture.
+
+Salto de página
 
 2.3 Type of Business Operations:
 
@@ -56,18 +60,20 @@ P4T aims to overcome significant problems related to non-expected garbage accumu
 
 The project will become open source once it is mature, the revenue at that point for the maintenance and expansion of the network will come from the actors that place the prize tags for garbage collection. Each prize tag will have a % that will go directly to the worker or business collecting the garbage, a % that will go to the moderators, and a % that will go to the business in charge of the development and maintenance of the network. On the other side, the government and businesses interested in using the system can pay for a personalized version of this blockchain solution.
 
+Salto de página
+
 3 Competitive analysis
 
-3.1 Summarized STEEPLE for the Macro-environment analysis
+Summarized STEEPLE for the Macro-environment analysis
 
-Socio-Cultural: P4T can widely widespread easily arround the world as long as there the area has internet mobile coverage as the users needs a mobile with internet connection to connect to the network.
+Socio-Cultural: P4T can be widely widespread easily around the world as long as there the area has internet mobile coverage as the users need a mobile with an internet connection to connect to the network.
 
-Technology: The innovative use of blockchain technology will disrupt current garbage collection plans for the unespected trash accumulation sites. There is no modern competition for our solution.
+Technology: The innovative use of blockchain technology will disrupt current garbage collection plans for unexpected trash accumulation sites. There is no modern competition for our solution.
 
-Economic: The incentives that our network will allow to exist will create new revenue flow for existing actors in charge of garbage collection as well as stimulate the creation of new jobs and busineses that will want to earn those incentives.
+Economic: The incentives that our network will allow to exist will create new revenue flow for existing actors in charge of garbage collection as well as stimulate the creation of new jobs and businesses that will want to earn those incentives.
 
-Environment: It is a win win solution for the environment as our network is providing incentives for government, busineses and individual actors to pick up the trash on the environment and clean it up thus improving the sustainability of that area.
+Environment: It is a win-win solution for the environment as our network provides incentives for government, businesses, and individual actors to pick up the trash in the environment and clean it up thus improving the sustainability of that area.
 
-Political and Legal: There might be countries more open to some aspects of our network but closed to other aspects. Some goverments might nto want to lose control over the trash collection therefore will only accept our netowkr for regulated entities by the government. Some other countries might not want to lose time and effort with regulation and will simply let the non government actors involved will use the network as they see fit.
+Political and Legal: There might be countries more open to some aspects of our network but closed to other aspects. Some governments might not want to lose control over trash collection and therefore will only accept our network for regulated entities by the government. Some other countries might not want to lose time and effort with regulation and will simply let the non-government actors involved will use the network as they see fit.
 
-Ethical: We may encounter similar ethical questions as other networks involved in giving incentives to provide a service such as Uber. Questions might range from “is this a real job?”. As well as some garbage might be dangerous to be picked up by a non regulated actor. We will establish a criteria on what migh be ethical to put a prize on and what not to put a prize on.
+Ethical: We may encounter similar ethical questions as other networks involved in giving incentives to provide a service such as Uber. Questions might range from “is this a real job?”. As well as some garbage might be dangerous to be picked up by a non-regulated actor. We will establish a criterion on what might be ethical to put a prize on and what not to put a prize on.
