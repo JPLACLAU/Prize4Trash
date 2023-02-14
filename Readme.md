@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JPLACLAU/Prize4Trash">
-    <img src="images/beer-mug-svgrepo-com.svg" alt="Logo" width="80" height="80">
+    <img src="images/trash-can-svgrepo-com.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Prize 4 Trash</h3>
@@ -68,7 +68,7 @@
   <div align="center">
 
   <a href="https://github.com/JPLACLAU/Prize4Trash">  
-    <img src="images/trash-can-svgrepo-com.svg" alt="Prize 4 Trash"    width="180" height="180">
+    <img src="images/400x400.jpg" alt="Prize 4 Trash"    width="180" height="180">
 
   </a>  
     
