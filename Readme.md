@@ -76,13 +76,13 @@
 
 ###### _._
 
-This is a project is to use amongst unknown people in a collaborative way to tag packs of trash on nature and put a monetary prize to collect it. This project is in an early stage. This is purely a theoretical idea. There might be dozens of problems when implementing this in the real world under diferent legislations. Unless you know what you are doing, I would advise to use this only on testnets for educational purposes. This project was born from an assignment for the course "515-DL Blockchain and Entrepreneurship Management" in the Master's in Blockchain and Cryptocurrency provided by Nicosia's University.
+This is a project is to use amongst unknown people in a collaborative way to tag packs of trash on nature and put a monetary prize to collect it. This project is in an early stage, purely a theoretical idea. There might be dozens of problems when implementing this in the real world under different legislations. Unless you know what you are doing, I would advise using this only on test nets for educational purposes. This project was born from an assignment for the course "515-DL Blockchain and Entrepreneurship Management" in the Master's in Blockchain and Cryptocurrency provided by Nicosia's University.
 
 Here's why there could be a real use case scenario for this:
 
--   Dirty irresponsible people drop their trash in nature. Statistically, there will always be immature people like this.
--   Where a person walks, another walks. Humans usually take the same paths that other humans have, so it is very likely we can encounter trash droped by people that walked through a place before us.
--   When we are having a promenade, we might not be equiped to collect the trash we found on our way. But we can film a video of it, upload it to the network, and put a tag and a monetary prize on this pieace of trash so that another person with good equiment can pick up that trash safely.
+-   Dirty, irresponsible people drop their trash in nature. Statistically, there will always be immature people like this.
+-   Where a person walks, another walks. Humans usually take the same paths that other humans have, so it is very likely we can encounter trash dropped by people that walked through a place before us.
+-   When we are having a promenade, we might not be equipped to collect the trash we found on our way. But we can film a video of it, upload it to the network, and put a tag and a monetary prize on this piece of trash so that another person with good equipment can pick up that trash safely.
 
 This project is in an early stage.
 Be very careful if you use this code for any purposes, I advise against it.
